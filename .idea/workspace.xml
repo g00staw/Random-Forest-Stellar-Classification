@@ -18,6 +18,9 @@
       <entry key="_/home/konradp/Pulpit/Studia/mgr I semestr/sztuczna-inteligencja/RF_Stellar_Classification" value="3D8jE1DvkPaxdxySqhHIyfEpU2Q" />
     </persistenceIdMap>
   </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Agent" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -32,8 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -65,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777670476016</updated>
       <workItem from="1777670477028" duration="2224000" />
-      <workItem from="1777725676964" duration="151000" />
+      <workItem from="1777725676964" duration="10460000" />
     </task>
     <servers />
   </component>
